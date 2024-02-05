@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "134790951569",
+    "project_id": "pinagem-de-e-c-u-4zjhv7",
+    "storage_bucket": "pinagem-de-e-c-u-4zjhv7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134790951569:android:87fc39c83c49913ebcc530",
+        "android_client_info": {
+          "package_name": "com.mycompany.pinagemdeecu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJwEUj-6SXqzuncHmrzTyaZABlPIrFvpA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
